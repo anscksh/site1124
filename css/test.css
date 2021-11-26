@@ -77,6 +77,13 @@ div {
 
 ul {
     list-style: none;
+    align-content: center;
+}
+
+li {
+    float: left;
+    margin-left: 20px;
+    text-align: center;
 }
 
 .bot {
